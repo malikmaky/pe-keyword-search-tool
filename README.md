@@ -1,4 +1,22 @@
 
+
+
+
+
+# PE File Keyword Search Tool
+ [![AGPL License](https://img.shields.io/badge/C/C++-Project-yellow)](https://dotnet.microsoft.com/en-us/languages/csharp) 
+    
+
+
+
+This project is a C++ application designed to search for a specified keyword within the sections of Portable Executable (PE) files located in a given directory. The application verifies whether files are valid PE files and searches within executable sections for the keyword, providing detailed results including the section name and address if the keyword is found.
+
+
+
+
+
+
+
 ## Features :
 
 - #### __PE File Verification :__ 
@@ -85,3 +103,10 @@ C:>/ApplicationName.exe <directory_path> <keyword>
 
 ## Conclusion :
 This project demonstrates a practical application of C++ in the field of cybersecurity, specifically in the analysis of PE files. It provides a foundation for further enhancements, such as recursive directory scanning, multi-threaded search, and advanced keyword matching techniques.
+
+## Credits
+
+This project is maintained by @malikmaky.
+
+For any inquiries or feedback, please contact malikmhmd@hotmail.com
+
