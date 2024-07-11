@@ -4,7 +4,7 @@
 
 
 # PE File Keyword Search Tool
- [![AGPL License](https://img.shields.io/badge/C/C++-Project-yellow)](https://dotnet.microsoft.com/en-us/languages/csharp) 
+ [![AGPL License](https://img.shields.io/badge/C++-Project-yellow)](https://dotnet.microsoft.com/en-us/languages/csharp) 
     
 
 
@@ -84,7 +84,7 @@ The application runs through the command line (CMD) and requires two parameters:
 C:>/ApplicationName.exe <directory_path> <keyword>
 
 ## Example Of Running Application 3 & 4 : 
-![Logo](https://images2.imgbox.com/89/7f/qPbKCh8D_o.png)
+![Logo](https://images2.imgbox.com/d6/45/JhpowQ9x_o.png)
 
 
 ## Lessons Learned :
