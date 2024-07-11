@@ -1,0 +1,4 @@
+﻿  uygulama3.cpp
+C:\Users\Maky\cDEV\uygulama3\uygulama3\uygulama3.cpp(79,1): warning C4715: 'searchFiles': not all control paths return a value
+C:\Users\Maky\cDEV\uygulama3\uygulama3\uygulama3.cpp(58,1): warning C4715: 'findKeyword': not all control paths return a value
+  uygulama3.vcxproj -> C:\Users\Maky\cDEV\uygulama3\x64\Debug\uygulama3.exe
