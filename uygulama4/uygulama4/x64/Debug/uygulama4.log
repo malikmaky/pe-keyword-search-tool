@@ -1,0 +1,5 @@
+﻿  uygulama4.cpp
+C:\Users\Maky\cDEV\uygulama4\uygulama4\uygulama4.cpp(68,24): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Maky\cDEV\uygulama4\uygulama4\uygulama4.cpp(146,37): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Maky\cDEV\uygulama4\uygulama4\uygulama4.cpp(204,1): warning C4715: 'SearchFiles': not all control paths return a value
+  uygulama4.vcxproj -> C:\Users\Maky\cDEV\uygulama4\x64\Debug\uygulama4.exe
