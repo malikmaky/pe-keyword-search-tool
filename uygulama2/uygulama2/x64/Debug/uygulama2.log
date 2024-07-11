@@ -1,0 +1,3 @@
+﻿  uygulama2.cpp
+C:\Users\Maky\cDEV\uygulama2\uygulama2\uygulama2.cpp(54,1): warning C4715: 'findKeyword': not all control paths return a value
+  uygulama2.vcxproj -> C:\Users\Maky\cDEV\uygulama2\x64\Debug\uygulama2.exe
