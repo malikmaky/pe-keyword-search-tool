@@ -84,7 +84,7 @@ The application runs through the command line (CMD) and requires two parameters:
 C:>/ApplicationName.exe <directory_path> <keyword>
 
 ## Example Of Running Application 3 & 4 : 
-![Logo](https://images2.imgbox.com/d6/45/JhpowQ9x_o.png)
+![Logo](https://images2.imgbox.com/4a/9a/qeRJNQK8_o.png)
 
 
 ## Lessons Learned :
